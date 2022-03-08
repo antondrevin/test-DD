@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+.main {
+    font-size: 16px;
+    line-height: 20px;
+    color: #1F3F68;
+	width: 1000px;
+	
+}
+.lol {
+    font-size: 64px;
+	text-align: center;
+    color: #1F3F68;
+	width: 1000px;
+}
+.lol2 {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+.lol3 {
+    font-size: 36px;
+    text-align: center;
+	width: 1000px;
+}
+.lol4 {
+    font-size: 16px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+.zx {
+    border: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+.as {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+.topbutton {
+width:100px;
+border:2px solid #ccc;
+background:#f7f7f7;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:50px;
+right:50px;
+cursor:pointer;
+color:#333;
+font-family:verdana;
+font-size:12px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-khtml-border-radius: 5px;
+}

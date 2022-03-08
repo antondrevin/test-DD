@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Контакты</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header">
+        <div class="header-menu"><a href="index.html">Вернуться на главную</a>            
+        </div>
+        <div class="header-text">
+            <h2 class="lol2">Контакты</h2>
+            <p class="main">Руководитель проекта</p>
+        </div>
+    </div>
+    <div class="content">
+        <div class="contacts"><img src="img/09091931.jpg" alt="Фото" width="300">
+
+            <h4 class="lol4">Адрес</h4>
+            <p class="main">Саратов</p>
+            <h4 class="lol4">Телефон</h4>
+            <ul>
+                <li>89871451645</li>                
+            </ul>           
+        </div>
+        <div class="form">
+            <form action="">
+                <h4 class="lol4">Send us message</h4>
+                Full name <input class="zx" type="text"><br>
+                Email <input class="zx" type="email"><br>
+                Message <br>
+                <textarea class="zx" cols="30" rows="10"></textarea><br>
+                <button class="as" type="submit">Submit</button><br>
+            </form>
+        </div>        
+    </div>
+    <div class="footer">
+        <hr>
+        <div class="footer-bottom">
+            <div class="footer-contacts">
+                <ul>
+                    <li>Служба безопасности</li>
+                    <li>8-912-345-67-89 </li>
+                    <li>fsb@mail.ru</li>
+                </ul>
+            </div>
+            <div class="footer-text-botton">
+                <p class="main">«Все права защищены»</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
